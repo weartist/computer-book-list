@@ -1,0 +1,2 @@
+# computer_book_list
+一个综合了豆瓣，goodreads综合评分的计算机书籍书单
