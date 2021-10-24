@@ -23,12 +23,12 @@
 | [数据密集型应用系统设计](https://book.douban.com/subject/30329536/) | 9.52 | 6779人    | Martin Kleppmann / 赵军平 / 李三平 / 吕云松 / 耿煜      |
 | [操作系统导论](https://book.douban.com/subject/33463930/) | 9.51 | 1251人    | [美]  Remzi H. Arpaci-Dusseau / [美] Andrea C. Arpaci-Dusseau / 王海鹏 |
 | [流畅的Python](https://book.douban.com/subject/27028517/) | 9.39 | 2376人    | [巴西] Luciano Ramalho / 安道、吴珂                 |
-| [Convex Optimization](https://book.douban.com/subject/25739448/) | 9.39 | 1000人    | Stephen Boyd、Lieven Vandenberghe             |
+| [凸优化](https://book.douban.com/subject/25739448/) | 9.39 | 1000人    | Stephen Boyd、Lieven Vandenberghe             |
 | [Python深度学习](https://book.douban.com/subject/30293801/) | 9.36 | 1889人    | [美] 弗朗索瓦•肖莱 / 张亮                             |
 | [Linux/UNIX系统编程手册](https://book.douban.com/subject/25809330/) | 9.31 | 1094人    | Michael Kerrisk / 孙剑 许从年 董健 / 孙余强 郭光伟 陈舸     |
 | [概率论与数理统计](https://book.douban.com/subject/2201479/) | 9.31 | 1165人    | 陈希孺                                          |
 | [汇编语言](https://book.douban.com/subject/35038473/) | 9.30 | 2201人    | 王爽                                           |
-| [An Introduction to Statistical Learning](https://book.douban.com/subject/26430936/) | 9.27 | 2569人    | Gareth James、Daniela Witten、Trevor Hastie、Robert Tibshirani |
+| [统计学习导论](https://book.douban.com/subject/26430936/) | 9.27 | 2569人    | Gareth James、Daniela Witten、Trevor Hastie、Robert Tibshirani |
 | [CLR via C#](https://book.douban.com/subject/26285940/) | 9.26 | 1798人    | (美)Jeffrey Richter / 周靖                      |
 | [R for Data Science : Visualize, Model, Transform, Tidy, and Import Data](https://book.douban.com/subject/30277904/) | 9.25 | 1148人    | Hadley Wickham / Garrett Grolemund           |
 | [UNIX网络编程](https://book.douban.com/subject/26434583/) | 9.20 | 2788人    | 史蒂文斯、芬纳、鲁道夫 / 杨继张                            |
@@ -70,9 +70,9 @@
 | [Windows核心编程](https://book.douban.com/subject/3235659/) | 9.03 | 1158人    | Jeffrey Richter                              |
 | [深入理解C#](https://book.douban.com/subject/25843328/) | 9.03 | 1480人    | 斯基特 (Jon Skeet) / 姚琪琳                        |
 | [The Elements of Statistical Learning : Data Mining, Inference, and Prediction, Second Edition](https://book.douban.com/subject/26278331/) | 9.02 | 2662人    | Trevor Hastie / Robert Tibshirani / Jerome Friedman |
-| [计算机程序设计艺术](https://book.douban.com/subject/1247360/) | 9.02 | 620人     | Donald E. Knuth / 苏运霖                        |
-| [计算机程序设计艺术](https://book.douban.com/subject/26681685/) | 9.01 | 3638人    | [美] Donald E. Knuth                          |
-| [计算机程序设计艺术](https://book.douban.com/subject/5258933/) | 9.01 | 676人     | （美）Donald E.Knuth                            |
+| [计算机程序设计艺术卷2](https://book.douban.com/subject/1247360/) | 9.02 | 620人     | Donald E. Knuth / 苏运霖                        |
+| [计算机程序设计艺术卷1](https://book.douban.com/subject/26681685/) | 9.01 | 3638人    | [美] Donald E. Knuth                          |
+| [计算机程序设计艺术卷3](https://book.douban.com/subject/5258933/) | 9.01 | 676人     | （美）Donald E.Knuth                            |
 | [恶意代码分析实战](https://book.douban.com/subject/25868289/) | 9.01 | 593人     | Michael Sikorski、Andrew Honig / 诸葛建伟、姜辉 张光凯  |
 | [C和指针](https://book.douban.com/subject/3012360/) | 9.01 | 1991人    | Kenneth A.Reek / 徐波                          |
 | [游戏编程模式](https://book.douban.com/subject/26880704/) | 9.01 | 1332人    | Robert Nystrom / GPP翻组                       |
