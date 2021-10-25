@@ -113,7 +113,6 @@
 | [Java编程思想 ](https://book.douban.com/subject/6523999/) | 8.83 | 8552人    | [美] Bruce Eckel / 陈昊鹏                        |
 | [UNIX传奇](https://book.douban.com/subject/35292726/) | 8.83 | 889人     | [美] Brian W. Kernighan / 韩磊                  |
 | [R语言实战](https://book.douban.com/subject/26785199/) | 8.83 | 1664人    | 卡巴科弗 (Robert I.Kabacoff) / 高涛、肖楠、陈钢          |
-| [小说鉴赏](https://book.douban.com/subject/34873596/) | 8.83 | 1149人    | [美]克林斯·布鲁克斯（C. Brooks）、[美]罗伯特·潘·沃伦（R. P. Warren） / 冯亦代 等译 |
 | [鸟哥的Linux私房菜](https://book.douban.com/subject/10794788/) | 8.83 | 685人     | 鸟哥                                           |
 | [Machine Learning](https://book.douban.com/subject/10758624/) | 8.81 | 799人     | Kevin Murphy                                 |
 | [Head First 设计模式](https://book.douban.com/subject/2243615/) | 8.81 | 12617人   | Elisabeth Freeman、/ Eric Freeman、Bert Bates、Kathy Sierra、Elisabeth Robson / O'Reilly Taiwan公司 |
@@ -549,7 +548,6 @@
 | [Hadoop: The Definitive Guide : MapReduce for the Cloud](https://book.douban.com/subject/27115351/) | 7.90 | 2194人    | Tom White                                    |
 | [Spring实战](https://book.douban.com/subject/34949443/) | 7.89 | 2967人    | Craig Walls 沃尔斯 / 张卫滨                        |
 | [高效能程序员的修炼](https://book.douban.com/subject/24868904/) | 7.89 | 1196人    | [美]Jeff Atwood / 陆其明、张健                      |
-| [女人的起源](https://book.douban.com/subject/26914781/) | 7.89 | 1420人    | [英]伊莲·摩根 / 刘筠                                |
 | [算法技术手册](https://book.douban.com/subject/27123062/) | 7.89 | 589人     | George T. Heineman、Gary Pollice、Stanley Selkow / 杨晨、李明 |
 | [人工智能的未来](https://book.douban.com/subject/26716264/) | 7.89 | 7314人    | [美] 雷·库兹韦尔 / 盛杨燕                             |
 | [Web导航设计](https://book.douban.com/subject/3313897/) | 7.89 | 586人     | James Kalbach / 李曦琳                          |
