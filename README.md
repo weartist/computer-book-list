@@ -182,9 +182,9 @@
 | [数据结构与算法分析](https://book.douban.com/subject/33419792/) | 8.61 | 3645人    | Mark Allen Weiss (维斯) / 冯舜玺                  |
 | [All of Statistics](https://book.douban.com/subject/4714168/) | 8.60 | 628人     | Larry Wasserman                              |
 | [Android编程权威指南](https://book.douban.com/subject/27065013/) | 8.60 | 964人     | [美] Bill Phillips、[美] Brian Hardy / 王明发      |
+| [Redis设计与实现](https://book.douban.com/subject/25900156/) | 8.60 | 1267     | 黄健宏      |
 | [JavaScript & jQuery交互式Web前端开发](https://book.douban.com/subject/26433805/) | 8.60 | 1655人    | [美]达克特(Duckett,J.) / 杜伟、柴晓伟、涂曙光              |
 | [深入理解LINUX内核](https://book.douban.com/subject/2287506/) | 8.60 | 1838人    | （美）博韦，西斯特 / 陈莉君;张琼声;张宏伟                      |
-| [真名实姓 : 英美最佳中篇科幻小说选](https://book.douban.com/subject/30396723/) | 8.60 | 7765人    | [美] 弗诺·文奇 等 / 罗布顿珠 等                         |
 | [软件随想录](https://book.douban.com/subject/26366425/) | 8.59 | 3046人    | Joel Spolsky / 阮一峰                           |
 | [计算机科学导论](https://book.douban.com/subject/26726452/) | 8.59 | 688人     | [美] Behrouz A.Forouzan / [美] Firouz Mosharraf / 刘艺 |
 | [Pro Git](https://book.douban.com/subject/27133267/) | 8.59 | 4446人    | Scott Chacon                                 |
