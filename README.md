@@ -305,7 +305,6 @@
 | [世界是数字的](https://book.douban.com/subject/30200248/) | 8.38 | 627人     | [美] Brian W. Kernighan / 李松峰、徐建刚             |
 | [Erlang 程序设计](https://book.douban.com/subject/25892728/) | 8.38 | 1366人    | Armstrong / 赵东炜、金尹                           |
 | [系统之美](https://book.douban.com/subject/26791090/) | 8.38 | 25652人   | [美] 德内拉•梅多斯 / 邱昭良                            |
-| [基地](https://book.douban.com/subject/26389900/) | 8.38 | 1382369人 | [美] 艾萨克·阿西莫夫 / 叶李华                           |
 | [简约至上](https://book.douban.com/subject/30253370/) | 8.37 | 7335人    | [英] Giles Colborne / 李松峰、秦绪文                 |
 | [Objective-C编程](https://book.douban.com/subject/26613294/) | 8.37 | 1053人    | [美] Aaron Hillegass / 夏伟频、李骏                 |
 | [UNIX超级工具 ](https://book.douban.com/subject/1105697/) | 8.37 | 845人     | [美] Jerry Peek、Tim O'Reilly、Mike Loukides / 张志龙 等 |
@@ -634,8 +633,6 @@
 | [算法霸权](https://book.douban.com/subject/30295861/) | 7.75 | 20263人   | [美] 凯西·奥尼尔 / 马青玲                             |
 | [设计沟通十器](https://book.douban.com/subject/6872932/) | 7.75 | 1659人    | Daniel M. Brown / 樊旺斌                        |
 | [数据化决策](https://book.douban.com/subject/30281688/) | 7.75 | 3828人    | 道格拉斯•W•哈伯德 / 邓洪涛                             |
-| [创业的艺术](https://book.douban.com/subject/26894743/) | 7.74 | 27441人   | 盖伊·川崎 / 李旭大                                  |
-| [颠覆医疗](https://book.douban.com/subject/25747269/) | 7.74 | 1645人    | [美]埃里克·托普 / 张南、魏薇、何雨师                        |
 | [RESTful Web Services中文版](https://book.douban.com/subject/3094230/) | 7.74 | 1137人    | Leonard Richardson / Sam Ruby / 徐涵 / 李红军 / 胡伟 |
 | [Who Gets What — and Why : The New Economics of Matchmaking and Market Design](https://book.douban.com/subject/26703784/) | 7.74 | 2674人    | Alvin E. Roth                                |
 | [学习bash](https://book.douban.com/subject/1442019/) | 7.74 | 816人     | Cameron Newham / Bill Rosenblatt / 徐炎 / 查石祥  |
