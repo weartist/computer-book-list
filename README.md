@@ -615,9 +615,7 @@
 | [工具，还是武器？](https://book.douban.com/subject/34940580/) | 7.78 | 1481人    | 【美】布拉德·史密斯、【美】卡罗尔·安·布朗 / 杨静娴、赵磊              |
 | [入侵的艺术](https://book.douban.com/subject/25962826/) | 7.78 | 3520人    | Kevin D.Mitnick、William L.Simon / 袁月杨、谢衡     |
 | [PYTHON技术手册](https://book.douban.com/subject/4863526/) | 7.78 | 549人     | 马特利                                          |
-| [超预期](https://book.douban.com/subject/27139139/) | 7.78 | 515人     | [美] 莱昂纳多·因基莱里、迈卡·所罗门 / 杨波                    |
-| [Node.js实战](https://book.douban.com/subject/30288107/) | 7.78 | 631人     | [美] Mike Cantelon、[美] TJ Holowaychuk、[美] Nathan Rajlich / 吴海星 |
-| [人人都在说谎](https://book.douban.com/subject/30384189/) | 7.78 | 73073人   | 赛思·斯蒂芬斯--达维多维茨 / 胡晓姣、张晨、左润男                  |
+| [Node.js实战](https://book.douban.com/subject/30288107/) | 7.78 | 631人     | [美] Mike Cantelon、[美] TJ Holowaychuk、[美] Nathan Rajlich / 吴海星 |            |
 | [互联网新思维：未来十年的企业变形计](https://book.douban.com/subject/25882306/) | 7.77 | 2977人    | 戴夫·柯本 (Dave Kerpen)、特蕾莎·布朗 (Theresa Braun)、瓦莱丽·普里查德 (Valerie Pritchard) / 钱峰 |
 | [死亡之旅](https://book.douban.com/subject/6967574/) | 7.77 | 1032人    | Edward Yourdon / 杨华                          |
 | [改变未来的九大算法](https://book.douban.com/subject/30547794/) | 7.77 | 1953人    | [美] 约翰.麦考密克 / 管策                             |
@@ -670,8 +668,6 @@
 | [项目管理知识体系指南](https://book.douban.com/subject/30230063/) | 7.65 | 6486人    | Project Management Institute（项目管理协会） / 王勇、张斌 |
 | [科技想要什么](https://book.douban.com/subject/26685018/) | 7.65 | 9915人    | [美] 凯文·凯利 / 熊祥                               |
 | [In The Plex](https://book.douban.com/subject/4789228/) | 7.65 | 59904人   | Steven Levy                                  |
-| [杰克·韦尔奇自传](https://book.douban.com/subject/30228874/) | 7.65 | 22306人   | （美）杰克.韦尔奇（Jack Welch） / 约翰.拜恩（John A. Byrne） / none / 曹彦博 / 孙立明 / 丁浩 |
-| [至关重要的关系](https://book.douban.com/subject/24530336/) | 7.65 | 10232人   | [美] 里德·霍夫曼 / [美] 本·卡斯诺瓦 / 钱峰                 |
 | [UML精粹 : 标准对象建模语言简明指南：第3版](https://book.douban.com/subject/10798193/) | 7.64 | 1723人    | (美)Martin Fowle / 徐家福                        |
 | [Fundamentals of Database Systems](https://book.douban.com/subject/4108476/) | 7.64 | 904人     | Ramez Elmasri / Shamkant Navathe             |
 | [Go语言实战](https://book.douban.com/subject/27015617/) | 7.64 | 769人     | 威廉·肯尼迪 (William Kennedy)、布赖恩·克特森 (Brian Ketelsen)、埃里克·圣马丁 (Erik St.Martin) / 李兆海 |
