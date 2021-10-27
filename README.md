@@ -328,9 +328,7 @@
 | [Head First PMP : A Brain-Friendly Guide to Passing the Project Management Profess](https://book.douban.com/subject/6982156/) | 8.32 | 1191人    | Andrew Stellman / Jennifer Greene            |
 | [Hacking](https://book.douban.com/subject/3923796/) | 8.32 | 2290人    | Jon Erickson                                 |
 | [Think Python : How to Think Like a Computer Scientist](https://book.douban.com/subject/26870407/) | 8.32 | 2258人    | Allen B. Downey                              |
-| [思考，快与慢](https://book.douban.com/subject/22366506/) | 8.32 | 1146144人 | [美] 丹尼尔·卡尼曼 / 胡晓姣、李爱民、何梦莹                    |
 | [C#与.NET 4高级程序设计](https://book.douban.com/subject/24827879/) | 8.32 | 864人     | [美] Andrew Troelsen / 朱晔 [等]                 |
-| [有的放矢](https://book.douban.com/subject/25850087/) | 8.31 | 936人     | Nathan Furr、Paul Ahlstrom / 七印部落             |
 | [Web界面设计](https://book.douban.com/subject/26345173/) | 8.31 | 1278人    | Bill Scott / Theresa Neil / 李松峰              |
 | [敏捷软件开发工具](https://book.douban.com/subject/1151724/) | 8.31 | 1030人    | Mary Poppendieck / 朱崇高                       |
 | [企业应用架构模式](https://book.douban.com/subject/4826290/) | 8.31 | 4473人    | Martin Fowler / 王怀民 / 周斌 / 王怀民 / 周斌          |
