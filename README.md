@@ -319,7 +319,6 @@
 | [卓有成效的管理者](https://book.douban.com/subject/33460803/) | 8.34 | 51922人   | [美] 彼得·德鲁克 / 许是祥                             |
 | [微服务设计](https://book.douban.com/subject/26772677/) | 8.34 | 4897人    | [英] Sam Newman / 崔力强、张骏                      |
 | [JavaScript设计模式](https://book.douban.com/subject/3329540/) | 8.33 | 541人     | Ross Harmes、Dustin Diaz / 谢廷晟                |
-| [异类](https://book.douban.com/subject/35178861/) | 8.33 | 1304822人 | [美] 马尔科姆·格拉德威尔 / 季丽娜                         |
 | [用户体验多面手](https://book.douban.com/subject/26142616/) | 8.33 | 1307人    | Leah Buley / 新浪微博用户研究与体验设计中心、七印部落            |
 | [离散数学及其应用](https://book.douban.com/subject/26316200/) | 8.33 | 2837人    | [美] Kenneth H. Rosen / 袁崇义                   |
 | [人工智能的未来](https://book.douban.com/subject/25926823/) | 8.33 | 7785人    | Jeff Hawkins / 贺俊杰 / 李若子 / 杨倩                |
@@ -423,7 +422,6 @@
 | [SEO艺术](https://book.douban.com/subject/24722613/) | 8.15 | 992人     | Eric Enge、Stephan Spencer、Rand Fishkin / 昝辉  |
 | [拉新：快速实现用户增长](https://book.douban.com/subject/33436161/) | 8.15 | 8714人    | [美]加布里埃尔·温伯格、[美]贾斯汀·迈尔斯 / 谢天                 |
 | [人月神话](https://book.douban.com/subject/26358448/) | 8.15 | 18763人   | [美] 弗雷德里克·布鲁克斯 / 汪颖                          |
-| [心流 : 最优体验心理学](https://book.douban.com/subject/27186106/) | 8.15 | 145735人  | [美] 米哈里·契克森米哈赖 / 张定绮                         |
 | [信息简史](https://book.douban.com/subject/25752043/) | 8.15 | 17842人   | [美] 詹姆斯·格雷克 / 高博                             |
 | [大象](https://book.douban.com/subject/10549583/) | 8.14 | 530人     | 谭云杰                                          |
 | [Linux口袋书](https://book.douban.com/subject/24736505/) | 8.14 | 582人     | [美]巴瑞特（Barrett,D.J.） / 欧阳立博 / 严小商 / 任桥伟      |
@@ -437,11 +435,9 @@
 | [信息时代三部曲：经济、社会与文化](https://book.douban.com/subject/1026593/) | 8.12 | 1384人    | [美] 曼纽尔·卡斯特(Manuel Castells) / 夏铸九、王志弘       |
 | [AI·未来](https://book.douban.com/subject/30197184/) | 8.12 | 25586人   | 李开复                                          |
 | [上瘾 : 让用户养成使用习惯的四大产品逻辑](https://book.douban.com/subject/27030507/) | 8.11 | 70329人   | [美] 尼尔·埃亚尔 / [美] 瑞安·胡佛 / 钟莉婷 / 杨晓红           |
-| [麦肯基疗法](https://book.douban.com/subject/5921328/) | 8.11 | 780人     | （新西兰）麦肯基，（新西兰）库贝 著，王小亮　译、Robin McKenzie / 王小亮 |
 | [创新者：一群技术狂人和鬼才程序员如何改变世界](https://book.douban.com/subject/27009472/) | 8.11 | 35421人   | [美] 沃尔特·艾萨克森 / 关嘉伟、牛小婧                       |
 | [Cooking for Geeks](https://book.douban.com/subject/4733085/) | 8.11 | 3677人    | Jeff Potter                                  |
 | [世界因你不同](https://book.douban.com/subject/26452494/) | 8.11 | 26767人   | 李开复、范海涛                                      |
-| [演说之禅](https://book.douban.com/subject/24381654/) | 8.11 | 17036人   | Garr Reynolds / 王佑、汪亮                        |
 | [重新定义公司 : 谷歌是如何运营的](https://book.douban.com/subject/33464429/) | 8.11 | 34174人   | [美]埃里克·施密特 / 靳婷婷 / 陈序 / 何晔                   |
 | [Python网络数据采集](https://book.douban.com/subject/33386709/) | 8.11 | 953人     | 米切尔 (Ryan Mitchell) / 陶俊杰 / 陈小莉              |
 | [计算机组成](https://book.douban.com/subject/25982323/) | 8.11 | 566人     | Andrew S. Tanenbaum / Todd Austin / 刘卫东 / 宋佳兴 |
@@ -562,7 +558,6 @@
 | [程序员面试攻略](https://book.douban.com/subject/25782529/) | 7.87 | 1460人    | 蒙干 / 王海鹏                                     |
 | [HTML和XHTML权威指南](https://book.douban.com/subject/2061604/) | 7.87 | 792人     | Chuck Musciano / Bill Kennedy / 技桥           |
 | [一目了然](https://book.douban.com/subject/10537875/) | 7.87 | 1603人    | ROBERT HOEKMAN / 何潇                          |
-| [当我谈跑步时我谈些什么](https://book.douban.com/subject/26575679/) | 7.86 | 359277人  | [日] 村上春树 / 施小炜                               |
 | [Spark快速大数据分析](https://book.douban.com/subject/26616244/) | 7.86 | 958人     | [美] Holden Karau、[美] Andy Konwinski、[美] Patrick Wendell、[加] Matei Zaharia / 王道远 |
 | [精通Web Analytics](https://book.douban.com/subject/3260737/) | 7.86 | 2077人    | (美国)(Avinash Kaushik)卡希克 / 杨艳、王春楠            |
 | [C++GUI Qt4编程](https://book.douban.com/subject/24734031/) | 7.86 | 520人     | Jasmin Blanchette、Mark Summerfield / 闫锋欣     |
@@ -611,7 +606,6 @@
 | [数据科学入门](https://book.douban.com/subject/26741078/) | 7.79 | 988人     | [美] Joel Grus / 高蓉 / 韩波                      |
 | [软件测试的艺术](https://book.douban.com/subject/10549782/) | 7.79 | 596人     | 梅尔斯                                          |
 | [Linux in a Nutshell](https://book.douban.com/subject/4051611/) | 7.79 | 807人     | Ellen Siever、Stephen Figgins、Robert Love、Arnold Robbins |
-| [零边际成本社会](https://book.douban.com/subject/27126686/) | 7.79 | 2775人    | [美]杰里米·里夫金 / 赛迪研究院专家组                        |
 | [工具，还是武器？](https://book.douban.com/subject/34940580/) | 7.78 | 1481人    | 【美】布拉德·史密斯、【美】卡罗尔·安·布朗 / 杨静娴、赵磊              |
 | [入侵的艺术](https://book.douban.com/subject/25962826/) | 7.78 | 3520人    | Kevin D.Mitnick、William L.Simon / 袁月杨、谢衡     |
 | [PYTHON技术手册](https://book.douban.com/subject/4863526/) | 7.78 | 549人     | 马特利                                          |
