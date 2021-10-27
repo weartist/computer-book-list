@@ -676,9 +676,7 @@
 | [Fundamentals of Database Systems](https://book.douban.com/subject/4108476/) | 7.64 | 904人     | Ramez Elmasri / Shamkant Navathe             |
 | [Go语言实战](https://book.douban.com/subject/27015617/) | 7.64 | 769人     | 威廉·肯尼迪 (William Kennedy)、布赖恩·克特森 (Brian Ketelsen)、埃里克·圣马丁 (Erik St.Martin) / 李兆海 |
 | [免费 : 未来的商业](https://book.douban.com/subject/26778836/) | 7.63 | 20870人   | [美] 克里斯·安德森 / 蒋旭峰 / 冯斌 / 璩静                  |
-| [合伙人](https://book.douban.com/subject/26430818/) | 7.63 | 510人     | 【阿】费洛迪（Claudio Fernández-Aráoz） / 高玉芳  译、谢非 校译 |
 | [金领简历 : 敲开苹果、微软、谷歌的大门](https://book.douban.com/subject/10779571/) | 7.63 | 954人     | [美] Gayle Laakmann McDowell / 漆犇             |
-| [应需而变](https://book.douban.com/subject/3665205/) | 7.63 | 747人     | Peter Merholz、Brandon Schauer、David Verba、Todd Wilkens / 吴隽辰 |
 | [PHP与MySQL 5程序设计](https://book.douban.com/subject/6516132/) | 7.62 | 712人     | W.Jason Gilmore / 朱涛江                        |
 | [信任代理](https://book.douban.com/subject/6558345/) | 7.62 | 6580人    | [美]克里斯·布罗根 / 缪梅                              |
 | [持续集成](https://book.douban.com/subject/10769596/) | 7.62 | 632人     | (美)Paul M.Duvall;Steve Matyas;Andrew Glover、Steve Matyas、Andrew Glover / 王海鹏、贾立群 |
@@ -689,9 +687,7 @@
 | [黑客大曝光](https://book.douban.com/subject/25734330/) | 7.61 | 1166人    | [美] Stuart McClure / Joel Scambray / George Kurtz / 钟向群 |
 | [数据之美](https://book.douban.com/subject/25833225/) | 7.61 | 891人     | 邱南森 (Nathan Yau) / 张伸                        |
 | [iPhone开发基础教程](https://book.douban.com/subject/26638042/) | 7.61 | 941人     | Dave Mark、Jeff LaMarche / 漆振、谢巧云、孙文磊         |
-| [热点](https://book.douban.com/subject/26919741/) | 7.61 | 524人     | 【美】马克•舍费尔（Mark Shaefer） / 曲秋晨                |
 | [Shell脚本学习指南](https://book.douban.com/subject/3519360/) | 7.60 | 754人     | Arnold Robbins、Nelson H.F.Beebe / O Reilly Taiwan公司 |
-| [番茄工作法图解](https://book.douban.com/subject/26099295/) | 7.60 | 15523人   | [瑞典] Staffan Nöteberg / 大胖                   |
 | [一个媒体推手的自白](https://book.douban.com/subject/24530309/) | 7.60 | 14738人   | 瑞安·霍利迪 / 潘丽君                                 |
 | [人人都是产品经理](https://book.douban.com/subject/27065618/) | 7.60 | 10462人   | 苏杰                                           |
 | [沃兹传](https://book.douban.com/subject/21966356/) | 7.59 | 19232人   | [美] 史蒂夫·沃兹尼亚克、[美] 吉娜·史密斯 / 阮天悦、贺丽琴           |
@@ -718,12 +714,9 @@
 | [互联网冲击](https://book.douban.com/subject/25866261/) | 7.54 | 3427人    | 杰伦•拉尼尔 (Jaron Lanier) / 李龙泉、祝朝伟              |
 | [软件工程](https://book.douban.com/subject/6109617/) | 7.53 | 969人     | 萨默维尔 / 程成                                    |
 | [程序员健康指南](https://book.douban.com/subject/25981248/) | 7.53 | 716人     | Joe Kutner / 陈少芸                             |
-| [未来是湿的](https://book.douban.com/subject/26410688/) | 7.53 | 10978人   | [美] 克莱·舍基 / 胡泳、沈满琳                           |
-| [联盟](https://book.douban.com/subject/26308014/) | 7.53 | 4740人    | 里德•霍夫曼、本•卡斯诺查、克里斯•叶 / 路蒙佳                    |
 | [随意搜寻](https://book.douban.com/subject/25746680/) | 7.52 | 1612人    | Peter Morville / 沈浩翔                         |
 | [软件工程](https://book.douban.com/subject/26918148/) | 7.52 | 1153人    | 普雷斯曼 / 郑人杰                                   |
 | [云攻略](https://book.douban.com/subject/3650828/) | 7.52 | 4767人    | 马克·贝尼奥夫、卡莱尔·阿德勒 / 徐杰                         |
 | [做最好的自己](https://book.douban.com/subject/1768937/) | 7.52 | 11108人   | 李开复                                          |
 | [Getting Started with Arduino : Projects)](https://book.douban.com/subject/19961280/) | 7.52 | 1388人    | Massimo Banzi                                |
 | [未来时速-数字系统与商务新思维](https://book.douban.com/subject/1046080/) | 7.51 | 5026人    | 比尔・盖茨 / 蒋显�，姜明                               |
-| [资源革命](https://book.douban.com/subject/26435017/) | 7.51 | 509人     | 斯蒂芬·赫克（Stefan Heck）、马特·罗杰斯（Matt Rogers）、保罗·卡罗尔（Paul Carroll） / 粟志敏 |
